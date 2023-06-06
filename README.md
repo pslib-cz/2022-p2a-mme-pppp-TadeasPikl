@@ -10,7 +10,8 @@
 
 ## Instructions for assembly
 ### 1. Print out the model with a 3D printer
- - Recommended material: PLA
+ [Models to print](./print)
+ Recommended material: PLA
 ![foto]()
 
 ### 2. Assemble from parts
