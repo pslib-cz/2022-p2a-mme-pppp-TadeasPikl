@@ -12,7 +12,7 @@
 ### 1. Vytiskněte model na 3d tiskárně
  [Modely na vytisknutí](./print)
 
- - doporučený materiál: PLA
+ doporučený materiál: PLA
 ![foto]()
 
 ### 2. Sestavte z dílů
