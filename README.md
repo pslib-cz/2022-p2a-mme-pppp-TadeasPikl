@@ -1,17 +1,17 @@
 <!-- [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/V-0A61vX) -->
-# Krabička na Raspberry pi
+# Case for a Raspberry Pi
 [Thingiverse](https://www.thingiverse.com/)
-## Díly
- - Základ ![foto]()
- - Stěna ![foto]()
- - Kryt ![foto]()
+## Parts
+ - Base ![foto]()
+ - Side ![foto]()
+ - Cover ![foto]()
 
-## Instrukce na sestavení
-### 1. Vytiskněte model na 3d tiskárně
- - doporučený materiál: PLA
+## Instructions for assembly
+### 1. Print out the model with a 3D printer
+ - Recommended material: PLA
 ![foto]()
 
-### 2. Sestavte z dílů
+### 2. Assemble from parts
 ![foto]()
 ![foto]()
 ![foto]()
