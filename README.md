@@ -3,6 +3,11 @@
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](./README.md) [![cs](https://img.shields.io/badge/lang-cs-red.svg)](./README.cs.md)
 
 [Thingiverse](https://www.thingiverse.com/)
+## Supported models
+- Raspberry Pi 2 B
+- Raspberry Pi 3 B
+- Raspberry Pi 3 B+
+
 ## Parts
  - Base ![foto]()
  - Side ![foto]()
@@ -13,6 +18,7 @@
  [Models to print](./print)
  
  Recommended material: PLA
+ Recommended setting: 0.2 mm
 ![foto]()
 
 ### 2. Assemble from parts
