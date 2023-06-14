@@ -23,7 +23,7 @@
  
  Recommended material: PLA
  
- Recommended setting: 0.2 mm
+ Recommended setting: 0.2 mm QUALITY
 
  Print info:
  ![foto](./images/Screenshot_slice_info.png)
