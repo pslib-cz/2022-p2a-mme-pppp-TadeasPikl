@@ -14,12 +14,17 @@
  - Cover ![foto]()
 
 ## Instructions for assembly
-### 1. Print out the model with a 3D printer
+### 1. Print out the model
+ ![foto](./images/Screenshot_slicer.png)
+ 
  [Models to print](./print)
  
  Recommended material: PLA
+ 
  Recommended setting: 0.2 mm
-![foto]()
+
+ Print info:
+ ![foto](./images/Screenshot_slice_info.png)
 
 ### 2. Assemble from parts
 ![foto]()
