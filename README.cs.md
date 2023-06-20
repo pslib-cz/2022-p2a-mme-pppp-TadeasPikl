@@ -4,7 +4,12 @@
 
 ![foto](./images/complete.jpg)
 
-[Thingiverse](https://www.thingiverse.com/)
+[![printables](https://img.shields.io/badge/link-thingiverse-blue.svg)](https://www.thingiverse.com/thing:6087259) [![printables](https://img.shields.io/badge/link-printables-orange.svg)](https://www.printables.com/model/509264-krabicka-na-raspberry-pi-3-b)
+## Podporované modely
+- Raspberry Pi 2 B
+- Raspberry Pi 3 B
+- Raspberry Pi 3 B+
+
 ## Díly
  - Základ ![foto](./images/base.jpg)
  - Stěna ![foto](./images/side.jpg)
